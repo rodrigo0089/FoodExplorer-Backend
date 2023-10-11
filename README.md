@@ -45,5 +45,5 @@ $ npm run dev
 
 # Com o servidor Backend rodando, siga para o Frontend
 ```
-# [Deploy do projeto]()
+# [Deploy do projeto](https://food-explorer-0089.netlify.app/)
 ---
